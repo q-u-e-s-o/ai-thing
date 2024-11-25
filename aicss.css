@@ -84,8 +84,8 @@ h1 {
 
 #user-input:focus {
     outline: none;
-    border-color: #7400fe;
-    box-shadow: 0 4px 15px rgba(255, 0, 221, 0.6);
+    border-color: #bd112a; 
+    box-shadow: 0 4px 15px rgba(189, 17, 42, 0.6); 
 }
 
 #send-button {
